@@ -1,0 +1,5 @@
+start_screen = cv2.imread("frames\img1.jpeg")
+cookie_frame = cv2.imread("img\sqr(2).png")
+lose_screen = cv2.imread("frames\img2.png")
+win_screen = cv2.imread("frames\img3.png")
+brand_logo = cv2.imread("img\mlsa.png")
